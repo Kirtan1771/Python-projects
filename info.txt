@@ -1,6 +1,0 @@
-Install Speechrecognition and Pyaudio
-Install Setuptools
-Install pyttsx3(text-to-speech module)
-Import Speechrecognition module & Web Browser(built in module)
-Create a main method 
-Create a function 'speak' with 'text' parameters and use ttsx3 module functions inside
