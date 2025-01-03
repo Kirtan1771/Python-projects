@@ -1,0 +1,2 @@
+Install Matplotlib
+Install Pandas(for allowing to load the csv file and work with it easily)

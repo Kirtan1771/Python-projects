@@ -1,0 +1,9 @@
+Date,Amount,Category,Description
+30-12-2024,,Income,Salary
+30-12-2024,,Expense,Groceries
+30-12-2024,12000.0,Expense,Subscription
+02-01-2025,30000.0,Expense,Shoes
+02-01-2025,200.0,Expense,Milk
+05-01-2025,<function get_amount at 0x00000216D91DD620>,Income,Salary
+02-01-2025,100.0,Expense,Vadapav
+05-01-2025,200000.0,Income,ITR
