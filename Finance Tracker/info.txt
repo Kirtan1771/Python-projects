@@ -1,2 +1,4 @@
 Install Matplotlib
 Install Pandas(for allowing to load the csv file and work with it easily)
+
+Note:- This is a project i created for a startup i worked for. They used it for tracking their day-to-day finances. The csv file included in the project is just a basic example of how the information will be stored and not real time data.
